@@ -1,0 +1,12 @@
+SMART TRAFFIC CONTROLLER SYSTEM
+
+IMPORTANT:
+1. Extract this ZIP to a NEW folder.
+2. Open CMD inside the extracted smart-traffic-controller folder.
+3. Run:
+   npm install
+   npm start
+4. Open http://localhost:5173
+
+The project uses server.js. server.mjs is included only as a compatibility wrapper for older extracted copies.
+If port 5173 is already in use, close the other running Node server/window first and run npm start again.
